@@ -13,13 +13,16 @@ The **Global Super Store Dashboard** is a Tableau data visualization project tha
 ## 📁 Project Overview
 
 - **Tool Used**: Tableau
-- **Dataset**: Global Superstore (mock retail dataset)
+- **Dataset**: [Global Super Store Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 - **Scope**: Sales, Profitability, Shipping, Regional Insights, and Customer Behavior
 - **Objective**: To provide executives and operations managers with insights that aid in decision-making around marketing, logistics, and inventory.
 
 Two main dashboards were created:
 1. **Sales Performance Dashboard**
+   <img src="Dashboards/Superstore Dashboard.png"/>&nbsp;
+   
 2. **Shipment Analysis Dashboard**
+   <img src="Dashboards/Shipment Analysis Dashboard.png"/>&nbsp;
 
 ---
 
